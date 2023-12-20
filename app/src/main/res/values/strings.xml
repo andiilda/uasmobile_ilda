@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Project Final App</string>
+
+    <string name="heroes_name">List Nakama One Piece</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="search">Pencarian</string>
+
+    <string name="login">Login</string>
+    <string name="Password">Password</string>
+    <string name="Username">Username</string>
+    <string name="Login">Login</string>
+
+    <string-array name="data_name">
+        <item>parfum ysl</item>
+        <item>parfum versace</item>
+        <item>parfum tom ford</item>
+        <item>parfum milion</item>
+        <item>parfum marc jacobs</item>
+        <item>parfum jo malone</item>
+        <item>parfum treakk</item>
+        <item>parfum gucci</item>
+        <item>parfum marcendel</item>
+        <item>parfum este lauder</item>
+        <item>Parfum miss dior</item>
+        <item>parfum bits</item>
+        <item>parfum giorgio armani</item>
+        <item>parfum ck one</item>
+        <item>parfum channel paris</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>parfum ysl Libre: Merupakan parfum yang menyatukan elemen-elemen floral dan aroma woody yang elegan. Diciptakan sebagai simbol kebebasan, parfum ini menampilkan kontras antara aroma lavender yang kuat dan feminin, dengan sentuhan oranye manis dan vanila yang lembut.</item>
+        <item>parfum pardum Versace Eros: Merupakan parfum maskulin dengan aroma yang kuat dan sensual. Menggabungkan citruses segar, mint, green apple, tonka bean, dan vanilla, menciptakan campuran yang maskulin dan menarik.</item>
+        <item>parfum tom ford Oud Wood: Merupakan parfum yang diinspirasi oleh aroma kayu oud yang langka dan mewah. Aroma kayu oud dipadukan dengan bunga rose, rempah-rempah, dan sentuhan amber, menciptakan kesan yang hangat, woody, dan elegan.</item>
+        <item>parfum "Million" adalah salah satu parfum pria terkenal dari merek Paco Rabanne. Parfum ini populer karena aroma yang khas, perpaduan yang kuat, dan botolnya yang ikonik.</item>
+        <item>parfum Daisy by Marc Jacobs: Daisy adalah salah satu parfum paling populer dari Marc Jacobs. Ini adalah parfum dengan aroma floral yang ringan dan segar. Menampilkan aroma bunga-bunga seperti daisy, violet, dan gardenia, serta sentuhan stroberi dan musk yang memberikan kesan yang feminin dan menyenangkan.</item>
+        <item>parfum Jo Malone sering kali memiliki aroma yang ringan, segar, dan alami. Mereka sering mengusung aroma buah-buahan, floral, herbal, dan woody yang menyenangkan dan mudah dikenali.</item>
+        <item>parfum treakk yang lebih berani dengan sentuhan aroma oriental. Botolnya yang mewah seperti sebuah tas selempang menunjukkan karakter parfum ini. Aroma plum, saffron, iris, dan amber memberikan kesan yang misterius dan sensual.</item>
+        <item>parfum Gucci Bloom: Bloom adalah parfum yang lebih feminin dan bunga. Menghadirkan aroma bunga seperti jasmine, tuberose, dan rangoon creeper, Bloom memberikan kesan yang lembut, mewah, dan elegan.</item>
+        <item>parfum marcendel ini mengusung aroma floral yang ringan dan segar. Terinspirasi oleh motif floral ikonik dari Gucci, Flora menampilkan aroma bunga-bunga seperti rose, osmanthus, dan peony, memberikan kesan yang feminin dan memikat.</item>
+        <item>parfum Estée Lauder Beautiful: Beautiful adalah parfum yang mewah dan klasik. Dengan sentuhan bunga-bunga seperti rose, lily, tuberose, dan melati, parfum ini menciptakan aroma yang elegan, romantis, dan feminin.</item>
+        <item>parfum Miss Dior dikenal dengan aroma floral yang memikat. Aroma bunga-bunga seperti rose, jasmine, dan bergamot memberikan kesan yang segar, feminin, dan mewah.</item>
+        <item>parfum bits Dengan kombinasi aroma bunga yang kompleks dan sentuhan yang mewah, Miss Dior memberikan kesan yang elegan, romantis, dan cocok digunakan pada berbagai kesempatan, dari formal hingga kasual.</item>
+        <item>parfum Armani adalah salah satu parfum pria yang ikonik dari Giorgio Armani. Ini menampilkan aroma oriental dengan sentuhan bunga citrus dan leather yang elegan. Parfum ini memberikan kesan maskulin, sensual, dan modern.</item>
+        <item>parfum Merupakan parfum klasik yang menampilkan aroma floral yang segar dan ringan. Cocok untuk wanita dengan kombinasi aroma seperti melati, rose, dan sandalwood yang memberikan kesan yang romantis dan elegan.</item>
+        <item>parfum parfum dengan aroma floral yang kaya dan kompleks. Aroma bunga seperti jasmine, rose, dan ylang-ylang memberikan sentuhan feminin yang kuat.Parfum ini juga dikenal dengan penggunaan aldehydes yang memberikan kesan yang bersih, bersinar, dan sedikit powdery.</item>
+        </string-array>
+
+    <array name="video_id">
+        <item>@raw/video1</item>
+        <item>@raw/video10</item>
+        <item>@raw/video3</item>
+        <item>@raw/video4</item>
+        <item>@raw/video5</item>
+        <item>@raw/video6</item>
+        <item>@raw/video7</item>
+        <item>@raw/video8</item>
+        <item>@raw/video9</item>
+        <item>@raw/video10</item>
+        <item>@raw/video12</item>
+        <item>@raw/video12</item>
+        <item>@raw/video7</item>
+        <item>@raw/video14</item>
+        <item>@raw/video15</item>
+
+    </array>
+
+    <array name="audio_resources">
+        <item>@raw/audio1</item>
+        <item>@raw/audio2</item>
+        <item>@raw/audio3</item>
+        <item>@raw/audio4</item>
+        <item>@raw/audio5</item>
+        <item>@raw/audio6</item>
+        <item>@raw/audio7</item>
+        <item>@raw/audio8</item>
+        <item>@raw/audio9</item>
+        <item>@raw/audio10</item>
+        <item>@raw/audio11</item>
+        <item>@raw/audio12</item>
+        <item>@raw/audio13</item>
+        <item>@raw/audio14</item>
+        <item>@raw/audio15</item>
+    </array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/gambar1</item>
+        <item>@drawable/gambar2</item>
+        <item>@drawable/gambar3</item>
+        <item>@drawable/gambar4</item>
+        <item>@drawable/gambar5</item>
+        <item>@drawable/gambar6</item>
+        <item>@drawable/gambar7</item>
+        <item>@drawable/gambar8</item>
+        <item>@drawable/gambar9</item>
+        <item>@drawable/gambar10</item>
+        <item>@drawable/gambar11</item>
+        <item>@drawable/gambar12</item>
+        <item>@drawable/gambar13</item>
+        <item>@drawable/gambar14</item>
+        <item>@drawable/gambar15</item>
+    </integer-array>
+</resources>
